@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj": {}
+    "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj": {}
   },
   "projects": {
-    "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj": {
+    "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj",
+        "projectUniqueName": "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj",
         "projectName": "Fibonacci_series_practice",
-        "projectPath": "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj",
+        "projectPath": "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice.csproj",
         "packagesPath": "C:\\Users\\LouisDing\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\Fibonacci_series_practice\\obj\\",
+        "outputPath": "D:\\Personal-Work-Space\\C# Project\\Fibonacci_series_practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
