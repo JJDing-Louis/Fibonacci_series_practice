@@ -3,6 +3,7 @@ Practice coding fibonacci_series with C#
 
 # 費氏數列(費波那契數列)
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233
+
 ![](https://i.imgur.com/PDm0s4m.png)
 
 參考資料: [維基百科 - 費氏數列](https://zh.wikipedia.org/wiki/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97)
