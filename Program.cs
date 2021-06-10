@@ -26,6 +26,7 @@ namespace Fibonacci_series_practice
                 input_ans = Console.ReadLine();
             } while (input_ans.Equals("y"));
 
+            ///List的資料結構版本
             long Fibonacci_list(int num)
             {
                 List<long> list = new List<long>() { 0, 1 };
@@ -40,7 +41,7 @@ namespace Fibonacci_series_practice
                 return list[num];
                 stopwatch.Stop();
             }
-
+            ///Array的資料結構的版本
             long Fibonacci_array(int num)
             {
                 stopwatch.Restart();
@@ -55,6 +56,26 @@ namespace Fibonacci_series_practice
                 return array[num];
                 stopwatch.Stop();
             }
+            ///不重複運算的版本
+            /*
+            Console.WriteLine("費氏數列");
+            string ans;
+            List<long> list = new List<long>() { 0, 1 };
+            do
+            {
+                Console.Write("\n請輸入一個數字:");
+                string input_num = Console.ReadLine();
+                Console.WriteLine($"\n計算答案: {Fibonacci_list(int.Parse(input_num))}\n==========================================");
+                Console.Write("請問是否繼續? (y/n) ");
+                ans = Console.ReadLine();
+            } while (ans == "y" ? true : false);
+
+            long Fibonacci_list(int num)
+            {
+                if (num >= list.Count) { for (int i = list.Count; i < num + 1; i++) { list.Add(list[i - 2] + list[i - 1]); } }
+                return list[num];
+            }
+            */
         }
     }
 }
